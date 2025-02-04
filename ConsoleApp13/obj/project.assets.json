@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\ConsoleApp13\\ConsoleApp13\\ConsoleApp13.csproj",
-      "projectName": "ConsoleApp13",
-      "projectPath": "C:\\Users\\MSI\\source\\repos\\ConsoleApp13\\ConsoleApp13\\ConsoleApp13.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\ConsoleApp13\\ConsoleApp13\\Lesson2.csproj",
+      "projectName": "Lesson2",
+      "projectPath": "C:\\Users\\MSI\\source\\repos\\ConsoleApp13\\ConsoleApp13\\Lesson2.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MSI\\source\\repos\\ConsoleApp13\\ConsoleApp13\\obj\\",
       "projectStyle": "PackageReference",
