@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            #region Task Checking
             //int[,] arr= new int[3, 3];
             //for(int i=0;i<3;i++)
             //{
@@ -40,6 +41,7 @@
             //    Console.WriteLine();
 
             //}
+            #endregion
 
             #region VAR keyword   
 
@@ -74,6 +76,8 @@
             //string Name2 = "Firudin";
             //var age2 = 19;
             //var gender2 = false;
+
+            #endregion
 
 
             #region Class 
