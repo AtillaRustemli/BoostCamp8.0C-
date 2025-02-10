@@ -164,7 +164,6 @@ class Card
 #endregion
 
 
-
 #region 4 esas prinsip
 
 
@@ -227,8 +226,6 @@ class Book
 
 
 #endregion
-
-
 
 #region inhertence
 
